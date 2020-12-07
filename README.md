@@ -1,3 +1,3 @@
 # glTF のロードと useCannon のテスト
 
-https://determined-roentgen-cca411.netlify.app/
+https://three-physics.netlify.app/
